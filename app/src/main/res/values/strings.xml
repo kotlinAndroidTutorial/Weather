@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="bishkek">Бишкек</string>
+    <string name="refresh">Обновить</string>
+    <string name="sunset">Закат</string>
+    <string name="humidity">Влажность</string>
+    <string name="sunrise">Восход</string>
+    <string name="feels_like">Чувствуется как %s</string>
+
+</resources>
